@@ -1,4 +1,4 @@
-My Portfolio Using Jekyll
+My Portfolio Using Jekyll -- Work in progress 
 =========================
 
 View [here](https://davidlstarr.github.io/)
