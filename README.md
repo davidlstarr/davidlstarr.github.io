@@ -1,7 +1,6 @@
 My Portfolio Using Jekyll
 =========================
 
-## My Portfolio
 View [here](https://davidlstarr.github.io/)
 
 =========
