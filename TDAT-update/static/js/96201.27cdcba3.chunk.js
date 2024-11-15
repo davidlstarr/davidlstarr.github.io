@@ -1,0 +1,3 @@
+/*! For license information please see 96201.27cdcba3.chunk.js.LICENSE.txt */
+"use strict";(self.webpackChunkegis_tdat=self.webpackChunkegis_tdat||[]).push([[96201],{96201:(t,e,s)=>{s.r(e),s.d(e,{default:()=>a});var a={"Zoom Out":"\u041e\u0442\u0434\u0430\u043b\u0435\u0447\u0430\u0432\u0430\u043d\u0435","From %1 to %2":"\u041e\u0442 %1 \u0434\u043e %2","From %1":"\u041e\u0442 %1","To %1":"\u0414\u043e %1"}}}]);
+//# sourceMappingURL=96201.27cdcba3.chunk.js.map
